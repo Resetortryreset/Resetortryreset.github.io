@@ -5,7 +5,7 @@
     margin-bottom:5px;
     box-sizing: border-box;
     padding: 20px; 
-    
+    text-align: right;
     }
     
     .main{
@@ -92,6 +92,7 @@
         box-sizing: border-box;
         padding: 30px; 
         overflow: auto;
+        text-align: right;
     }
     
     
